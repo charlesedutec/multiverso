@@ -1,1 +1,2 @@
-Lista de todos os GitHubs dos alunos
+## Aula pratica com o professor
+### Bora que bora se não é pimba
